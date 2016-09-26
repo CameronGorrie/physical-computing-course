@@ -12,3 +12,15 @@ canvas {
     top: 0;
     left: 0;
 }
+
+#value {
+    font-style: 3em;
+}
+
+input {
+    width: 360px;
+}
+
+img {
+    display: none;
+}
